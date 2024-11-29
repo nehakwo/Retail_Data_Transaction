@@ -43,4 +43,4 @@ This dataset includes the following fields :-
 
    • Automated Reports: If needed, set up automated reports that run regularly and update Excel dashboards, using Python for automation.
 
-2. Report Presentation: Presented the reports to in either your Excel dashboard or prepare a PPT to present the findings.
+2. Report Presentation: Presented the reports in Excel dashboard to present the findings.
