@@ -36,10 +36,11 @@ This dataset includes the following fields :-
 
 1. Report Preparation: Prepared reports summarizing the findings. These can include:
 
-• Tabular Reports: Created summary tables showing sales by product, store, month, etc. These can be generated using SQL queries and Python, and then formatted and presented in Excel.
+   • Tabular Reports: Created summary tables showing sales by product, store, month, etc. These can be generated using SQL queries and Python, and then formatted and presented in Excel.
 
-• Visual Reports: Created visual reports (charts, graphs, etc) showing trends and patterns. These can be created using Python's data visualization libraries, and then incorporated into Excel for presentation.
+   • Visual Reports: Created visual reports (charts, graphs, etc) showing trends and patterns. These can be created using Python's data visualization libraries, and then incorporated 
+     into Excel for presentation.
 
-• Automated Reports: If needed, set up automated reports that run regularly and update Excel dashboards, using Python for automation.
+   • Automated Reports: If needed, set up automated reports that run regularly and update Excel dashboards, using Python for automation.
 
 2. Report Presentation: Presented the reports to in either your Excel dashboard or prepare a PPT to present the findings.
