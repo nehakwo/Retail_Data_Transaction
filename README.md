@@ -18,7 +18,7 @@ This dataset includes the following fields :-
 
 1. Data Collection : Downloaded the data from Kaggle as a csv file and placed it on the proper path
 
-2. Database Setup : Set up a SQL database to hold the data. Designed the database schema, and created the necessary tables using SQL DDL commands.
+2. Database Setup : Set up a SQL database to hold the data. Design the database schema, and created the necessary tables using SQL DDL commands.
 
 # Phase 2 : Data Cleaning and Preparation
 
